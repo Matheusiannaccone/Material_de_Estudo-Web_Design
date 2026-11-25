@@ -1,0 +1,3 @@
+Instruções da Tarefa
+- Formem grupos de 3 a 5 integrantes. Importante: Todas as atividades semanais deverão ser desenvolvidas e entregues em grupo, utilizando essa mesma composição. Além disso, as avaliações AC2 e AF também serão realizadas em grupo, com os mesmos integrantes definidos nesta etapa.
+- Após a formação do grupo, submetam um arquivo com os nomes completos dos participantes na primeira atividade disponível na disciplina de Web Design, por meio da plataforma Canvas.

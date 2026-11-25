@@ -1,0 +1,12 @@
+Instruções da Tarefa
+- Estrutura inicial: Crie um arquivo index.html e copie a estrutura básica do código fornecido (HTML5 com `<head>`, `<body>`, `<header>`, `<main>`, `<footer>`).
+- Inserindo imagens: Adicione 3 imagens diferentes usando a tag `<img>`. Use os atributos src, alt, width e height. Teste deixar uma imagem sem width/height para ver como fica no tamanho original.
+- Adicionando vídeo: Insira um vídeo (video.mp4) com a tag `<video>`. Configure os atributos controls, width e poster. Teste o que acontece se remover controls.
+- Inserindo áudio: Adicione um áudio (musica.mp3). Utilize `<audio controls>` e adicione duas fontes: .mp3 e .ogg. Insira um texto alternativo dentro da tag (Seu navegador não suporta áudio.).
+- Criando formulário: Monte um formulário com os seguintes campos: Nome (texto, obrigatório) E-mail (tipo email, obrigatório) Mensagem (textarea) Botão de envio
+- Links: Crie três tipos de links diferentes: Um link para o Google (texto simples). Um link com uma imagem clicável. Um link que abra em nova aba (target="_blank").
+- Listas: Crie uma lista ordenada com 3 passos (ex: Passo 1, Passo 2, Passo 3) e uma lista não ordenada com 3 itens (ex: Item A, Item B, Item C).
+- Tabelas: Monte uma tabela com 3 colunas e 3 linhas. Use `<thead>` e `<tbody>`. Preencha a primeira linha com cabeçalhos (`<th>`). Preencha as demais com dados (`<td>`).
+- IDs e Classes: Crie um parágrafo com id="introducao" e escreva um texto introdutório. Crie dois parágrafos com class="destaque". Estilize no CSS para que fiquem em fundo amarelo claro.
+- Div como contêiner: Adicione uma `<div>` que agrupe: Um subtítulo (`<h3>`). Dois parágrafos explicativos. Teste aplicar um estilo específico nessa `<div>` usando classes.
+- Por fim, comente todo o código explicando o que cada parte faz. Documente tudo em um arquivo com o código, repositório e prints e realize o envio na plataforma CANVAS.
