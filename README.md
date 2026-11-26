@@ -16,6 +16,8 @@ O conteúdo está organizado sequencialmente por aula, respeitando a ordem de ap
 
 Além de atender à proposta da atividade final, este repositório busca servir como uma fonte de consulta para estudos futuros e para a aplicação dos conhecimentos adquiridos em novos projetos de desenvolvimento Web.
 
+O repositório também reúne os materiais acadêmicos relacionados ao projeto semestral e-Writter, desenvolvido em equipe como aplicação integrada dos conhecimentos adquiridos durante a disciplina.
+
 ## Informações acadêmicas
 
 | Informação | Descrição |
@@ -158,6 +160,20 @@ Os códigos-fonte dessas atividades estão vinculados aos seus respectivos arqui
 A separação entre os materiais de estudo e os repositórios de desenvolvimento permite preservar o histórico original de versionamento dos projetos, evitando a duplicação dos códigos-fonte.
 
 Os relatórios técnicos disponíveis neste repositório complementam essas implementações, documentando o processo de desenvolvimento e os resultados alcançados.
+
+## Projeto semestral — e-Writter
+
+Como parte das atividades acadêmicas da disciplina, foi desenvolvido o **e-Writter**, uma plataforma Web destinada à escrita, publicação e leitura de obras literárias.
+
+O projeto integra os conhecimentos adquiridos ao longo do semestre, utilizando HTML, CSS e JavaScript, além de tecnologias complementares para autenticação, armazenamento de dados e segurança.
+
+| Recurso | Acesso |
+|---|---|
+| Materiais acadêmicos do projeto | [Acessar](./Projeto%20Semestral%20-%20e-Writter/) |
+| Repositório oficial | [GitHub](https://github.com/Matheusiannaccone/e-Writter) |
+| Documentação técnica | [Consultar documentação](https://github.com/Matheusiannaccone/e-Writter/tree/main/docs) |
+
+Os materiais referentes às avaliações acadêmicas estão disponíveis neste repositório, enquanto o código-fonte e o histórico de desenvolvimento são mantidos no repositório oficial do projeto.
 
 ## Créditos e considerações finais
 
