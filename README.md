@@ -39,6 +39,7 @@ O repositório também reúne os materiais acadêmicos relacionados ao projeto s
 - [Competências desenvolvidas](#competências-desenvolvidas)
 - [Projetos desenvolvidos](#projetos-desenvolvidos)
 - [Créditos e considerações finais](#créditos-e-considerações-finais)
+- [Projeto semestral — e-Writter](#projeto-semestral--e-writter)
 
 ## Planejamento acadêmico
 
