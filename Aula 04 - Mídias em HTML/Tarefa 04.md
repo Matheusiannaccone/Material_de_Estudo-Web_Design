@@ -1,4 +1,4 @@
-Instruções da Tarefa
+# Instruções da Tarefa
 - Estrutura inicial: Crie um arquivo index.html e copie a estrutura básica do código fornecido (HTML5 com `<head>`, `<body>`, `<header>`, `<main>`, `<footer>`).
 - Inserindo imagens: Adicione 3 imagens diferentes usando a tag `<img>`. Use os atributos src, alt, width e height. Teste deixar uma imagem sem width/height para ver como fica no tamanho original.
 - Adicionando vídeo: Insira um vídeo (video.mp4) com a tag `<video>`. Configure os atributos controls, width e poster. Teste o que acontece se remover controls.
@@ -10,3 +10,6 @@ Instruções da Tarefa
 - IDs e Classes: Crie um parágrafo com id="introducao" e escreva um texto introdutório. Crie dois parágrafos com class="destaque". Estilize no CSS para que fiquem em fundo amarelo claro.
 - Div como contêiner: Adicione uma `<div>` que agrupe: Um subtítulo (`<h3>`). Dois parágrafos explicativos. Teste aplicar um estilo específico nessa `<div>` usando classes.
 - Por fim, comente todo o código explicando o que cada parte faz. Documente tudo em um arquivo com o código, repositório e prints e realize o envio na plataforma CANVAS.
+
+## Link do código
+https://github.com/s2ddv/web-design/tree/main/Tarefa%20-%2004
